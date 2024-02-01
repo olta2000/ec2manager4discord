@@ -1,1 +1,1 @@
-# ec2manager4discord-
+# ec2manager4discord
